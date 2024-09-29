@@ -126,10 +126,9 @@ printf("%b\n", nani); // Sonuç false yani 0 olur.
 | \\    | Mantıksal OR  | İki koşuldan en az birinin doğru olup olmadığını kontrol eder | x \\ y |
 | !     | Mantıksal NOT | Bir koşulun tersini alır                                      | !x     |
 
-> [!caution] Uyarı
-> \\ yorum satırı yapmak için kullanılır aslında burda
-> onu || diye kabul edin. Markdown tablosu yaparken sıkıntı
-> yaptı o yüzden böyle yazdım.
+> \\ yorum satırı yapmak için kullanılır aslında.
+> Burda onu || diye kabul edin. Markdown tablosu yaparken
+> sıkıntı yaptı, o yüzden böyle yazdım.
 
 - Habbab zorla bir örnek yazdırmak istiyor galiba.
 
